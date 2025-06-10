@@ -1,0 +1,4 @@
+python-masscan
+requests
+PySocks
+aiohttp
